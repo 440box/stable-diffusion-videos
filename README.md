@@ -1,4 +1,4 @@
-# stable-diffusion-videos
+# stable-diffusion-warp-videos
 
 TPU version (~x6 faster than standard colab GPUs): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nateraw/stable-diffusion-videos/blob/main/flax_stable_diffusion_videos.ipynb)
 
