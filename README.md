@@ -28,7 +28,7 @@ The app is built with [Gradio](https://gradio.app/), which allows you to interac
     - Set the `num_interpolation_steps` - for testing you can use a small number like 3 or 5, but to get great results you'll want to use something larger (60-200 steps). 
     - You can set the `output_dir` to the directory you wish to save to
 
-## Python Package
+## If you want to use Python Package
 
 ### Setup
 
